@@ -26,7 +26,12 @@
 </div>
 
 ### :man_technologist: About Me :
-I am bekend Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJwcjJjNzVjdjR3bHZtYXk4cnQ1a3UycmgzMzZ1ajlrN3JqaTU1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> from Saint-Petersburg
+I’m a Python Developer.
+
+I like developing new algorithms and writing application logic;
+There are no victories without losses;
+You Can Achieve Anything If You Focus On ONE Thing;
+I’m constantly learning new things.
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -44,3 +49,6 @@ I am bekend Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjE
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
+
+### Contact with me:
+[https://t.me/Azzlem](https://t.me/Azzlem)
