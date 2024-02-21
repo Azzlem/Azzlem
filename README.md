@@ -15,6 +15,9 @@
     <img src="https://img.shields.io/badge/Vkotakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=Azzleme&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **Azzlem/Azzlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
