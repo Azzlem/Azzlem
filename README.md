@@ -28,9 +28,9 @@
 ### :man_technologist: About Me :
 I’m a Python Developer.
 
-I like developing new algorithms and writing application logic;
-There are no victories without losses;
-You Can Achieve Anything If You Focus On ONE Thing;
+I like developing new algorithms and writing application logic.
+There are no victories without losses.
+You Can Achieve Anything If You Focus On ONE Thing.
 I’m constantly learning new things.
 
 ### :hammer_and_wrench: Languages and Tools :
